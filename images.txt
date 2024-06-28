@@ -1,1 +1,4 @@
+mysql:5.7
 zabbix/zabbix-server-mysql:latest
+zabbix/zabbix-web-nginx-mysql:latest
+zabbix/zabbix-agent:latest
