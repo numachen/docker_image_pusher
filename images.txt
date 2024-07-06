@@ -7,3 +7,4 @@ mysql:8.0.23
 zabbix/zabbix-java-gateway:centos-5.2-latest
 zabbix/zabbix-server-mysql:centos-5.2-latest
 zabbix/zabbix-agent:centos-5.2-latest
+docker.io/calico/pod2daemon-flexvol:v3.27.3
