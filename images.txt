@@ -16,3 +16,4 @@ docker.io/calico/cni:v3.25.0
 docker.io/calico/csi:v3.25.0
 docker.io/calico/node-driver-registrar:v3.25.0
 docker.io/calico/apiserver:v3.25.0
+kindest/node:v1.30.0
