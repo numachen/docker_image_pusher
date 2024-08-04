@@ -1,1 +1,1 @@
-harbor/harbor:latest
+postgres:11.7
