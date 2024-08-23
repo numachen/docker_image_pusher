@@ -1,1 +1,2 @@
 sonarqube:10.6.0-community
+docker.io/bitnami/postgresql:11.14.0-debian-10-r22
