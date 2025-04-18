@@ -1,1 +1,2 @@
-grafana/grafana
+postgres:13
+kong/kong-gateway:3.10.0.1
