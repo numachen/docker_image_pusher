@@ -1,1 +1,2 @@
-nginx:1.18.0
+eclipse-temurin:21-jdk-jammy
+eclipse-temurin:21-jre-jammy
