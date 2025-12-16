@@ -1,2 +1,3 @@
-jenkins/jenkins:2.506-slim-jdk17
+redis:8.4.0
+goharbor/harbor-core:v2.13.3
 
