@@ -1,1 +1,2 @@
-gitlab/gitlab-ce:18.5.1-ce.0
+jenkins/jenkins:2.506-slim-jdk17
+
