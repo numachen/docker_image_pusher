@@ -1,1 +1,2 @@
-nfluxdata/telegraf:latest
+telegraf:latest
+
