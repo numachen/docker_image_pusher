@@ -1,2 +1,1 @@
-telegraf:1.31.3
-
+nacos/nacos-server:v2.4.3
